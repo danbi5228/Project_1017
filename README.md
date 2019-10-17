@@ -1,3 +1,3 @@
 ## Project
 
-https://github.com/danbi5228/Project/my-data.html
+https://danbi5228.github.io/Project/my-data.html
